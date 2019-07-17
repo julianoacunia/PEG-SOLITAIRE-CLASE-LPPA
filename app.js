@@ -1,5 +1,3 @@
-//Creamos el board inicial
-//array dcon arrays dentro, con objetos
 var board = [
     [,, {value:1},{value:1},{value:1},,],
     [,, {value:1},{value:1},{value:1},,],
